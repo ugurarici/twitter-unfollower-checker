@@ -1,3 +1,4 @@
 /vendor
 config.php
 followers.json
+/followers_archive
